@@ -6,9 +6,8 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring cybersecurity professional with a strong foundation in security operations, threat analysis, and risk mitigation. Leveraging a background in healthcare and client-facing roles, I bring exceptional problem-solving, analytical, and teamwork skills to dynamic environments. Certified in CompTIA Security+, CySA+, and Google Cybersecurity Professional, I am eager to apply my knowledge in cybersecurity while continuously expanding my technical expertise. Passionate about protecting digital assets and ensuring security best practices in an ever-evolving landscape.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
