@@ -9,7 +9,8 @@ Aspiring cybersecurity professional with a strong foundation in security operati
 | Projects        | Description |
 |-----------------|-------------|
 | <a href="https://github.com/AyeChumm/Detection-Lab">Detection Lab</a>| Building a Detection Lab to simulate and analyze cyber attacks using a SIEM for hands-on security learning |
-| <a href="https://github.com/AyeChumm/Active-Directory-Project">Active Directory</a>| Simulate real-world cyber attacks on an Active Directory using Windows Server, Splunk, Kali Linux, and Atomic Red Team for security analysis|
+| <a href="https://github.com/AyeChumm/Active-Directory-Project">Active Directory</a>| Simulate real-world cyber attacks on an Active Directory using Windows Server, Splunk, Kali Linux, and Atomic Red Team for security analysis |
+| <a href="https://drive.google.com/drive/folders/10ga0B-dXz6nWVqYl_VTjuT-BD_wvQXcr?usp=drive_link"> Lumma Info Stealer| asdasdasdasd|
 
 ## Certifications
 <div>
