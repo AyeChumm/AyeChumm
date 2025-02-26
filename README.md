@@ -1,25 +1,16 @@
 # Hello, I'm Timmy
-<a href="https://www.linkedin.com/in/timmy-h-260ab5246/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timmyh322/)
 
 ## Objective
 
 Aspiring cybersecurity professional with a strong foundation in security operations, threat analysis, and risk mitigation. Leveraging a background in healthcare and client-facing roles, I bring exceptional problem-solving, analytical, and teamwork skills to dynamic environments. Certified in CompTIA Security+, CySA+, and Google Cybersecurity Professional, I am eager to apply my knowledge in cybersecurity while continuously expanding my technical expertise. Passionate about protecting digital assets and ensuring security best practices in an ever-evolving landscape.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AyeChumm/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Projects        | Description |
+|-----------------|-------------|
+| <a href="https://github.com/AyeChumm/Detection-Lab">Detection Lab</a>| Building a Detection Lab to simulate and analyze cyber attacks using a SIEM for hands-on security learning |
+| <a href="https://github.com/AyeChumm/Active-Directory-Project">Active Directory</a>| Simulate real-world cyber attacks on an Active Directory using Windows Server, Splunk, Kali Linux, and Atomic Red Team for security analysis|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -54,6 +45,3 @@ Aspiring cybersecurity professional with a strong foundation in security operati
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
