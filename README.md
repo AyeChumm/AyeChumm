@@ -5,12 +5,12 @@
 
 Aspiring cybersecurity professional with a strong foundation in security operations, threat analysis, and risk mitigation. Leveraging a background in healthcare and client-facing roles, I bring exceptional problem-solving, analytical, and teamwork skills to dynamic environments. Certified in CompTIA Security+, CySA+, and Google Cybersecurity Professional, I am eager to apply my knowledge in cybersecurity while continuously expanding my technical expertise. Passionate about protecting digital assets and ensuring security best practices in an ever-evolving landscape.
 
-
-| Projects        | Description |
+## Projects
+| Name        | Description |
 |-----------------|-------------|
 | <a href="https://github.com/AyeChumm/Detection-Lab">Detection Lab</a>| Building a Detection Lab to simulate and analyze cyber attacks using a SIEM for hands-on security learning |
 | <a href="https://github.com/AyeChumm/Active-Directory-Project">Active Directory</a>| Simulate real-world cyber attacks on an Active Directory using Windows Server, Splunk, Kali Linux, and Atomic Red Team for security analysis |
-| <a href="https://drive.google.com/drive/folders/10ga0B-dXz6nWVqYl_VTjuT-BD_wvQXcr?usp=drive_link"> Lumma Info Stealer| asdasdasdasd|
+| <a href="https://drive.google.com/drive/folders/10ga0B-dXz6nWVqYl_VTjuT-BD_wvQXcr?usp=drive_link"> Info Stealer Project| Analyzing malware delivery and propagation methods, including phishing, exploit kits, and lateral movement of the Lumma Stealer Malware |
 
 ## Certifications
 <div>
