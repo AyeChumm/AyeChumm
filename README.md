@@ -14,9 +14,13 @@ Aspiring cybersecurity professional with a strong foundation in security operati
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<a href="https://www.credly.com/badges/bafceb79-542a-4fa0-8bf8-726503b14ad8/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/73a55802-de2c-41bb-9f49-93480080d8c3/public_url"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/4QNWGD876PRK"><img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/b8b3eb5d-f339-4ed2-b532-9e9c83df7dbd/public_url"><img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</a>
 
 
