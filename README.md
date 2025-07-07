@@ -12,6 +12,7 @@ Aspiring cybersecurity professional with a strong foundation in security operati
 | <a href="https://github.com/AyeChumm/Active-Directory-Project">Active Directory</a>| Simulate real-world cyber attacks on an Active Directory using Windows Server, Splunk, Kali Linux, and Atomic Red Team for security analysis |
 | <a href="https://github.com/AyeChumm/SOAR-EDR-Automation">SOAR-EDR Automation</a>| Hands-on experience with integrating SOAR (Tines) and EDR (Limacharlie) with automated playbooks, custom detections, and real-time alerting through Slack and email |
 | <a href="https://drive.google.com/drive/folders/10ga0B-dXz6nWVqYl_VTjuT-BD_wvQXcr?usp=drive_link"> Info Stealer Project| Analyzing malware delivery and propagation methods, including phishing, exploit kits, and lateral movement of the Lumma Stealer Malware |
+| <a href="https://pcpartpicker.com/b/QYH2FT">Custom PC Build</a>| My first PC build, gaining hands-on experience with configuring computer hardware and software |
 
 ## Certifications
 <div>
